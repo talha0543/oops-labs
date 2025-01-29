@@ -1,5 +1,5 @@
-<h1 align="left">.........Hi..........</h1>
-<h3 align="left">.........Muhammad Talha........</h3>
+<h1 align="left">HI</h1>
+<h3 align="left">MUHAMMAD TALHA</h3>
 
 
 
